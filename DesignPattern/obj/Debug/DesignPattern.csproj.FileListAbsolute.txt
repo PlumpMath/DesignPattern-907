@@ -1,0 +1,6 @@
+F:\Workplace\DotNet\Test\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe.config
+F:\Workplace\DotNet\Test\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+F:\Workplace\DotNet\Test\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+F:\Workplace\DotNet\Test\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+F:\Workplace\DotNet\Test\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+F:\Workplace\DotNet\Test\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
